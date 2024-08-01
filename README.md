@@ -117,6 +117,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 8.  ***Deploy on [`Replit`](https://replit.com/github/Frecyber/Frecyber-Md)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Frecyber/Frecyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/957aab565af943d0c5109.jpg)***
+11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Frecyber/Frecyber-md/tree/main)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
