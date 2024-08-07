@@ -1,5 +1,5 @@
 {
-   "name": "Frecyber-md",
+   "name": "V ɪ  m u  🐼💗🖇️",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by Fredie ....",
    "main": "index.js",
@@ -13,7 +13,7 @@
       "fis-heroku-postbuild": "https://github.com/fredietechTZ/Frecyber-md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "FredieTech",
+   "author": "V ɪ  m u  🐼💗🖇️",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
